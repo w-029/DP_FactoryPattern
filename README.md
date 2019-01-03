@@ -1,1 +1,1 @@
-# DP_FactoryPattern
+# This code is from HeadFirst DesignPattern.
